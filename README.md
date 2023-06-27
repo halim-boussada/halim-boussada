@@ -1,11 +1,12 @@
-<div boxShadow="rgba(0, 0, 0, 0.24) 0px 3px 8px">
+<div>
   <h1 align="center">Hi 👋, I'm Halim Boussada</h1>
-  <h3 align="center">A JavaScript Ninja </h3>
- <img
+  <h3 align="center">A JavaScript Ninja</h3>
+  <img
     width="300px"
     src="https://i.pinimg.com/564x/01/57/64/015764afd0b21178b3a4a96df2c98df9--tech-hacks-ninjas.jpg"
     alt=""
   />
+
   <p align="left">
     <img
       src="https://komarev.com/ghpvc/?username=halim-boussada&label=Profile%20views&color=0e75b6&style=flat"
@@ -392,43 +393,3 @@
     />
   </p>
 </div>
-
-<style>
-  /* CSS */
-  .button-87 {
-    width: 200px;
-    margin: 10px;
-    padding: 15px 30px;
-    text-align: center;
-    text-transform: uppercase;
-    transition: 0.5s;
-    background-size: 200% auto;
-    color: white;
-    border-radius: 10px;
-    display: block;
-    border: 0px;
-    font-weight: 700;
-    box-shadow: 0px 0px 14px -7px #f09819;
-    background-image: linear-gradient(
-      45deg,
-      #ff512f 0%,
-      #f09819 51%,
-      #ff512f 100%
-    );
-    cursor: pointer;
-    user-select: none;
-    -webkit-user-select: none;
-    touch-action: manipulation;
-  }
-
-  .button-87:hover {
-    background-position: right center;
-    /* change the direction of the change here */
-    color: #fff;
-    text-decoration: none;
-  }
-
-  .button-87:active {
-    transform: scale(0.95);
-  }
-</style>

@@ -1,7 +1,11 @@
 <div boxShadow="rgba(0, 0, 0, 0.24) 0px 3px 8px">
   <h1 align="center">Hi 👋, I'm Halim Boussada</h1>
-  <h3 align="center">A JavaScript Ninja :ninja_tone1:</h3>
-
+  <h3 align="center">A JavaScript Ninja </h3>
+ <img
+    width="300px"
+    src="https://i.pinimg.com/564x/01/57/64/015764afd0b21178b3a4a96df2c98df9--tech-hacks-ninjas.jpg"
+    alt=""
+  />
   <p align="left">
     <img
       src="https://komarev.com/ghpvc/?username=halim-boussada&label=Profile%20views&color=0e75b6&style=flat"

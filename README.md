@@ -1,12 +1,13 @@
 <div>
   <h1 align="center">Hi 👋, I'm Halim Boussada</h1>
   <h3 align="center">A JavaScript Ninja</h3>
-  <img
-    width="200px"
-    align="center"
-    src="https://i.pinimg.com/564x/01/57/64/015764afd0b21178b3a4a96df2c98df9--tech-hacks-ninjas.jpg"
-    alt=""
-  />
+  <div align="center">
+    <img
+      width="100px"
+      src="https://i.pinimg.com/564x/01/57/64/015764afd0b21178b3a4a96df2c98df9--tech-hacks-ninjas.jpg"
+      alt=""
+    />
+  </div>
 
   <p align="left">
     <img

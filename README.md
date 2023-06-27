@@ -9,14 +9,14 @@
     />
   </div>
 
-  <p align="left">
+  <p align="center">
     <img
       src="https://komarev.com/ghpvc/?username=halim-boussada&label=Profile%20views&color=0e75b6&style=flat"
       alt="halim-boussada"
     />
   </p>
 
-  <p align="left">
+  <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"
       ><img
         src="https://github-profile-trophy.vercel.app/?username=halim-boussada"
@@ -24,11 +24,8 @@
     /></a>
   </p>
 
-  - 📝 I regularly write articles on
-  <a href="https://halimboussada.medium.com/" class="button-87">My medium</a>
-
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
+  <h3 align="center">Connect with me:</h3>
+  <p align="center">
     <a href="https://linkedin.com/in/halim-boussada" target="blank"
       ><img
         align="center"
@@ -63,8 +60,8 @@
     /></a>
   </p>
 
-  <h3 align="left">Languages and Tools:</h3>
-  <p align="left">
+  <h3 align="center">Languages and Tools:</h3>
+  <p align="center">
     <a href="https://angular.io" target="_blank" rel="noreferrer">
       <img
         src="https://angular.io/assets/images/logos/angular/angular.svg"
